@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+studybattle_progress.json
+uploads/
+.env
+uploaded_questions.json
+*.tmp
