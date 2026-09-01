@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: studybattle
+    runtime: docker
+    plan: free
